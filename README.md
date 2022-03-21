@@ -1,4 +1,4 @@
-# DAta Science Portfolio
+# Data Science Portfolio
 
 ## Repository for Master of Science in Data Science from Bellevue University
 
