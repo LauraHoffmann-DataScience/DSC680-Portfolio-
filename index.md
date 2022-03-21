@@ -4,7 +4,25 @@ You can use the [editor on GitHub](https://github.com/LauraHoffmann-DataScience/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects
+
+#### Australian Housing Market EDA
+[Python File](githublink)
+
+#### DSC680 Project 2
+[Python File](githublink)
+
+#### DSC680 Project 3
+[Python File](githublink)
+
+#### Traveling Model Building - Expeida Hotel Recommendations
+[Python File](githublink)
+
+#### Beer Ratings EDA
+[Python File](githublink)
+
+#### Stroke Prediction Model Building
+[Python File](githublink)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
