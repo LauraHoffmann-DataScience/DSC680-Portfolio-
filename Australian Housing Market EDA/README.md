@@ -20,14 +20,14 @@ I can’t think of a lot of ethical considerations when exploring a housing mark
 ## Challenges
 One challenge might be in understanding how Covid might’ve affected the housing market. Being able to properly deal with missing data or outlying data might be another challenge that could be discovered in the exploratory process. 
 ## References
-Exploratory Analysis:
+### Exploratory Analysis:
 https://www.kaggle.com/code/alexgeiger/insightful-vast-usa-statistics-eda-efa/notebook 
 https://www.kaggle.com/code/kabure/financial-hedging-eda-plotly-charts/notebook
 https://www.kaggle.com/code/janiobachmann/melbourne-comprehensive-housing-market-analysis/notebook
 https://www.kaggle.com/code/furkankarakuz/sydney-house-prices-multiple-linear-regression
-Handling missing values: 
+### Handling missing values: 
 https://www.kaggle.com/code/dansbecker/handling-missing-values/notebook 
-Handling outliers: 
+### Handling outliers: 
 https://www.kaggle.com/code/nareshbhat/outlier-the-silent-killer/notebook 
-Model Building: 
+### Model Building: 
 https://www.kaggle.com/code/emanueleamcappella/random-forest-hyperparameters-tuning/notebook
