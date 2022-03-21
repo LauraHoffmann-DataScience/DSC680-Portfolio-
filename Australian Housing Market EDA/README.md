@@ -22,9 +22,13 @@ One challenge might be in understanding how Covid might’ve affected the housin
 ## References
 ### Exploratory Analysis:
 https://www.kaggle.com/code/alexgeiger/insightful-vast-usa-statistics-eda-efa/notebook
+
 https://www.kaggle.com/code/kabure/financial-hedging-eda-plotly-charts/notebook
+
 https://www.kaggle.com/code/janiobachmann/melbourne-comprehensive-housing-market-analysis/notebook
+
 https://www.kaggle.com/code/furkankarakuz/sydney-house-prices-multiple-linear-regression
+
 ### Handling missing values: 
 https://www.kaggle.com/code/dansbecker/handling-missing-values/notebook 
 ### Handling outliers: 
