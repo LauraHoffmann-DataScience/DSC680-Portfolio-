@@ -1,27 +1,23 @@
-## Welcome to GitHub Pages
+# Laura Hoffmann Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Projects
-
-#### Australian Housing Market EDA
+### Australian Housing Market EDA
 [Python File](githublink)
 
-#### DSC680 Project 2
+### DSC680 Project 2
 [Python File](githublink)
 
-#### DSC680 Project 3
+### DSC680 Project 3
 [Python File](githublink)
 
-#### Traveling Model Building - Expeida Hotel Recommendations
+### Traveling Model Building - Expeida Hotel Recommendations
 [Python File](githublink)
 
-#### Beer Ratings EDA
+### Beer Ratings EDA
 [Python File](githublink)
 
-#### Stroke Prediction Model Building
+### Stroke Prediction Model Building
 [Python File](githublink)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
