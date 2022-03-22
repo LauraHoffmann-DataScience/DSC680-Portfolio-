@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-## Repository for Master of Science in Data Science from Bellevue University
+## Repository for Master of Science in Data Science
 
 ### Project 1: Airline Safety Visualization/Promotion
 #### Topic
