@@ -6,7 +6,7 @@
 [Project Folder ✈️](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Airline%20Safety%20Visualization)
 
 ### Australian Housing Market EDA
-[Project Folder 🇦🇺](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Australian%20Housing%20Market%20EDA)
+[Project Folder :australia:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Australian%20Housing%20Market%20EDA)
 
 ### Beer Ratings EDA
 [Project Folder 🍻](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Beer%20Rating%20EDA)
