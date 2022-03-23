@@ -6,7 +6,13 @@
 [Project Folder :airplane:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Airline%20Safety%20Visualization)
 
 ### Australian Housing Market EDA
-[Python File](githublink)
+[Project Folder :flag-au:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Australian%20Housing%20Market%20EDA)
+
+### Beer Ratings EDA
+[Project Folder :beers:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Beer%20Rating%20EDA)
+
+### Candy Data Cleaning
+[Project Folder :candy:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Candy%20Data%20Cleaning)
 
 ### DSC680 Project 2
 [Python File](githublink)
@@ -14,14 +20,17 @@
 ### DSC680 Project 3
 [Python File](githublink)
 
-### Traveling Model Building - Expeida Hotel Recommendations
-[Python File](githublink)
+### Dodger Promotion Modeling
+[Project Folder :baseball:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Dodger%20Promotion%20Modeling)
 
-### Beer Ratings EDA
-[Python File](githublink)
+### Traveling Modeling - Expeida Hotel Recommendations
+[Project Folder :love_hotel:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Hotel%20Recommendation%20Modeling)
 
-### Stroke Prediction Model Building
-[Python File](githublink)
+### Stroke Prediction Modeling
+[Project Folder ⚕️](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Stroke%20Prediction%20Modeling)
+
+### Titanic Survival Modeling
+[Project Folder 🚢](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Titanic%20Survival%20Modeling)
 
 
 ```markdown
