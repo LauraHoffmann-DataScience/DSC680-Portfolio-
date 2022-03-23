@@ -3,34 +3,34 @@
 ## Projects
 
 ### Airline Safety Visualization
-[Project Folder ✈️](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Airline%20Safety%20Visualization)
+[✈️ Project Folder ✈️](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Airline%20Safety%20Visualization)
 
 ### Australian Housing Market EDA
-[Project Folder :australia:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Australian%20Housing%20Market%20EDA)
+[🇦🇺 Project Folder 🇦🇺](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Australian%20Housing%20Market%20EDA)
 
 ### Beer Ratings EDA
-[Project Folder 🍻](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Beer%20Rating%20EDA)
+[🍻 Project Folder 🍻](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Beer%20Rating%20EDA)
 
 ### Candy Data Cleaning
-[Project Folder 🍬](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Candy%20Data%20Cleaning)
+[🍬 Project Folder 🍬](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Candy%20Data%20Cleaning)
 
 ### DSC680 Project 2
-[Python File](githublink)
+[Project Folder](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/DSC680%20Project%202)
 
 ### DSC680 Project 3
-[Python File](githublink)
+[Python File](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/DSC680%20Project%203)
 
 ### Dodger Promotion Modeling
-[Project Folder ⚾](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Dodger%20Promotion%20Modeling)
+[⚾ Project Folder ⚾](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Dodger%20Promotion%20Modeling)
 
 ### Traveling Modeling - Expeida Hotel Recommendations
-[Project Folder 🏩](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Hotel%20Recommendation%20Modeling)
+[🏩 Project Folder 🏩](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Hotel%20Recommendation%20Modeling)
 
 ### Stroke Prediction Modeling
-[Project Folder ⚕️](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Stroke%20Prediction%20Modeling)
+[⚕️ Project Folder ⚕️](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Stroke%20Prediction%20Modeling)
 
 ### Titanic Survival Modeling
-[Project Folder 🚢](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Titanic%20Survival%20Modeling)
+[🚢 Project Folder 🚢](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Titanic%20Survival%20Modeling)
 
 
 ```markdown
