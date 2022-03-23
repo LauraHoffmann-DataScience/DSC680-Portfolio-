@@ -3,16 +3,16 @@
 ## Projects
 
 ### Airline Safety Visualization
-[Project Folder :airplane:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Airline%20Safety%20Visualization)
+[Project Folder ✈️](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Airline%20Safety%20Visualization)
 
 ### Australian Housing Market EDA
-[Project Folder :flag-au:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Australian%20Housing%20Market%20EDA)
+[Project Folder 🇦🇺](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Australian%20Housing%20Market%20EDA)
 
 ### Beer Ratings EDA
-[Project Folder :beers:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Beer%20Rating%20EDA)
+[Project Folder 🍻](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Beer%20Rating%20EDA)
 
 ### Candy Data Cleaning
-[Project Folder :candy:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Candy%20Data%20Cleaning)
+[Project Folder 🍬](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Candy%20Data%20Cleaning)
 
 ### DSC680 Project 2
 [Python File](githublink)
@@ -21,10 +21,10 @@
 [Python File](githublink)
 
 ### Dodger Promotion Modeling
-[Project Folder :baseball:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Dodger%20Promotion%20Modeling)
+[Project Folder ⚾](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Dodger%20Promotion%20Modeling)
 
 ### Traveling Modeling - Expeida Hotel Recommendations
-[Project Folder :love_hotel:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Hotel%20Recommendation%20Modeling)
+[Project Folder 🏩](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Hotel%20Recommendation%20Modeling)
 
 ### Stroke Prediction Modeling
 [Project Folder ⚕️](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Stroke%20Prediction%20Modeling)
