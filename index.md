@@ -2,6 +2,9 @@
 
 ## Projects
 
+### Airline Safety Visualization
+[Project Folder :airplane:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Airline%20Safety%20Visualization)
+
 ### Australian Housing Market EDA
 [Python File](githublink)
 
