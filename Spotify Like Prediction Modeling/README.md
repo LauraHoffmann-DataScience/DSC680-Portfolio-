@@ -1,4 +1,4 @@
-# DSC680 Project 2
+# Spotify Like Prediction Modeling
 
 ## Topic
 
