@@ -5,11 +5,11 @@ Analyze the housing markets in Australia to gain a better understanding of prici
 ## Business Problem
 The housing market has become a turbulent market to navigate with a lot of unpredictable factors about our future, especially after the spread of a global pandemic. My sister moved to Australia in 2018 and is now engaged to an Australian and they are perusing the housing market in such a questionable and uncertain current world climate. I would like to find a dataset for the housing market in Australia that would aid in the analyzing and exploration of the market so I could better help my sister feel more comfortable in her house purchasing endeavors.
 ## Datasets
-https://www.kaggle.com/anthonypino/melbourne-housing-market?select=Melbourne_housing_FULL.csv (Melbourne - Full)
+[Melbourne - Full](https://www.kaggle.com/anthonypino/melbourne-housing-market?select=Melbourne_housing_FULL.csv)
 
-https://www.kaggle.com/anthonypino/melbourne-housing-market?select=MELBOURNE_HOUSE_PRICES_LESS.csv (Melbourne - Some columns removed)
+[Melbourne - Limited](https://www.kaggle.com/anthonypino/melbourne-housing-market?select=MELBOURNE_HOUSE_PRICES_LESS.csv)
 
-https://www.kaggle.com/datasets/mihirhalai/sydney-house-prices?select=SydneyHousePrices.csv (Sydney)
+[Sydney](https://www.kaggle.com/datasets/mihirhalai/sydney-house-prices?select=SydneyHousePrices.csv)
 
 ## Methods
 Cleaning the data: Deciding whether to remove rows that have null values for analysis, or if certain variables have a heavy effect on price, decide if I need to fill those values with mean or median or another value.
