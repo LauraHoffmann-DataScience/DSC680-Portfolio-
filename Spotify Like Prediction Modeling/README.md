@@ -8,7 +8,9 @@ Dozens of audio streaming platforms sharing everything from songs to podcasts an
 
 ## Datasets
 [Spotify Songs](https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify)
+
 [Spotify Song Attributes](https://www.kaggle.com/datasets/geomack/spotifyclassification?select=data.csv)
+
 [Spotify’s Million Playlist Dataset Challenge (Account created to download private data)](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
 
 ## Methods
@@ -27,7 +29,11 @@ Spotify already has many algorithms and models set in place in its program that 
  
 ## References
 [Spotify Datasets](https://research.atspotify.com/datasets/)
+
 [Spotify’s Recommendations (Article)](https://www.popsci.com/technology/spotify-audio-recommendation-research/#:~:text=Spotify%20uses%20a%20machine%20learning,on%20shared%20attributes%20or%20qualities.&text=%E2%80%9CImagine%20you%20and%20another%20person,your%20fifth%20artists%20are%20different.)
+
 [Spotify’s Algorithms (Toward Data Science)](https://towardsdatascience.com/uncovering-how-the-spotify-algorithm-works-4d3c021ebc0)
+
 [EDA and Predictions](https://www.kaggle.com/code/codebreaker619/spotify-eda-and-predictions/notebook)
+
 [Prediction](https://www.kaggle.com/code/vishweshsalodkar/spotify-recommendation-system/notebook)
