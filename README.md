@@ -38,7 +38,9 @@ Online travel agencies are scrambling to meet the artificial intelligence driven
 
 ### Project 7: Spotify Like Prediction Modeling
 #### Topic
+The streaming business is booming, not only in terms of television and movie content but also in the music industry.
 #### Business Problem
+Dozens of audio streaming platforms sharing everything from songs to podcasts and standup routines are being utilized by millions around the globe every day. To keep the business of their subscribers and continue making money, these platforms must ensure that customers are satisfied with their services, not only of quality and quantity of the streaming content but also of recommending new content that users enjoy. Exploring a data set and building a functional model in the prediction for recommendation of Spotify songs could help the business in how it interacts with its users. Being able to successfully suggest new content for users to listen to can act as a type of customer retention for the business.
 
 ### Project 8: Stroke Prediction Modeling
 #### Topic:
