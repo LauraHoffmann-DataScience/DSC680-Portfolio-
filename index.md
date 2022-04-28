@@ -18,10 +18,6 @@
 #### [About](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/blob/main/Candy%20Data%20Cleaning/README.md)
 #### [🍬 Project Folder 🍬](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Candy%20Data%20Cleaning)
 
-### DSC680 Project 2
-#### [About](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/blob/main/DSC680%20Project%202/README.md)
-#### [Project Folder](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/DSC680%20Project%202)
-
 ### DSC680 Project 3
 #### [About](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/blob/main/DSC680%20Project%203/README.md)
 #### [Python File](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/DSC680%20Project%203)
@@ -34,7 +30,7 @@
 #### [About](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/blob/main/Hotel%20Recommendation%20Modeling/README.md)
 #### [🏩 Project Folder 🏩](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Hotel%20Recommendation%20Modeling)
 
-###
+### Spotify Liked Prediction Modeling
 #### [About](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/blob/main/Spotify%20Like%20Prediction%20Modeling/README.md)
 #### [:musical_score: Project Folder :musical_score:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Spotify%20Like%20Prediction%20Modeling)
 
