@@ -32,7 +32,7 @@
 
 ### Spotify Liked Prediction Modeling
 #### [About](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/blob/main/Spotify%20Like%20Prediction%20Modeling/README.md)
-#### [:musical_score: Project Folder :musical_score:](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Spotify%20Like%20Prediction%20Modeling)
+#### [🎼 Project Folder 🎼](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/tree/main/Spotify%20Like%20Prediction%20Modeling)
 
 ### Stroke Prediction Modeling
 #### [About](https://github.com/LauraHoffmann-DataScience/Data-Science-Portfolio/blob/main/Stroke%20Prediction%20Modeling/README.md)
