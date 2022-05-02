@@ -10,10 +10,4 @@ In more recent years stadiums have been struggling to fill in their seats and ea
 
 ## Datasets
 
-## Methods
-
-## Ethical Considerations
-
-## Challenges
- 
-## References
+[Dodger Game Day Informatio](https://www.kaggle.com/datasets/meluchatrojan123/dodgers-game-day-information)
