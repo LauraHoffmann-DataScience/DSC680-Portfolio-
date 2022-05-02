@@ -10,4 +10,4 @@ In more recent years stadiums have been struggling to fill in their seats and ea
 
 ## Datasets
 
-[Dodger Game Day Informatio](https://www.kaggle.com/datasets/meluchatrojan123/dodgers-game-day-information)
+[Dodger Game Day Information](https://www.kaggle.com/datasets/meluchatrojan123/dodgers-game-day-information)
